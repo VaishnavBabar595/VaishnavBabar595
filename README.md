@@ -12,7 +12,7 @@
 #### 💡 Interests: Full-Stack Development, Data Structures & Algorithms, Open Source Contributions
 
 
-
+---
 
 ## 🛠️ Tech Stack & Tools
 
